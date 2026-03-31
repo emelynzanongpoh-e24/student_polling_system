@@ -80,7 +80,7 @@ UPDATE users SET role = 'admin' WHERE email = 'your@email.com';
 
 ## 🎥 Video Demo
 
-▶️ [Watch the Demo on YouTube](https://youtu.be/w1r6tZIw6Lc)
+▶️ [Watch the Demo on YouTube]((https://youtu.be/erdBE7i5KjM))
 
 ---
 
