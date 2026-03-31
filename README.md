@@ -16,7 +16,7 @@ A web-based polling and survey system built for college students using PHP and M
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/student_polling_system.git
+git clone https://github.com/emelynzanongpoh-e24/student_polling_system.git
 ```
 
 ### 2. Move to XAMPP Folder
@@ -42,7 +42,7 @@ student_polling_system
 ```
 - Click on the new database
 - Click the **Import** tab
-- Click **Choose File** → select `database.sql` from the project folder
+- Click **Choose File** → select `student_polling_system.sql` from the project folder
 - Click **Go**
 
 ### 5. Configure Database Connection
@@ -80,7 +80,7 @@ UPDATE users SET role = 'admin' WHERE email = 'your@email.com';
 
 ## 🎥 Video Demo
 
-▶️ [Watch the Demo on YouTube](https://www.youtube.com/your_video_link_here)
+▶️ [Watch the Demo on YouTube]((https://youtu.be/w1r6tZIw6Lc))
 
 ---
 
